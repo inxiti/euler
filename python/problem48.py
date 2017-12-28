@@ -24,4 +24,4 @@ elapsedTime = time.time() - startTime
 print("expected: 9_110_846_700, result: {:_}, elapsedTime: {}s"
     .format(int(result), elapsedTime))
 
-# runs in 6ms(0.006s)
+# runs in 6ms
